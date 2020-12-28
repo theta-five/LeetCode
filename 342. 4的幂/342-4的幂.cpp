@@ -3,7 +3,7 @@ using namespace std;
 
 bool IsPowerOfFour(int n);
 
-bool IsPowerOfX(int n, unsigned m);//判断n是否为m的幂次方
+bool IsPowerOfX(int n, unsigned m);//鍒ゆ柇n鏄惁涓簃鐨勫箓娆℃柟
 
 int main() {
 
